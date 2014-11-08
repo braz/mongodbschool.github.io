@@ -1,4 +1,4 @@
-mongodbschool.github.io
+mongodbschool.io
 ====================
 
 http://mongodbschool.io/ internet web page
